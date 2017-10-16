@@ -15,3 +15,7 @@
 
 * [Jupyter](http://jupyter.org/)
 * [Python Tutor](http://pythontutor.com/)
+
+## References
+
+* [Learning python (general usage)](https://hackmd.io/AzCGA4FMGYDMCMC0oDGB2aiAsBWaA2ZARnwE5EUUccjx8jY0AmYIA===)
