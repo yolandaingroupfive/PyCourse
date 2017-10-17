@@ -25,6 +25,7 @@
 
 * [Jupyter](http://jupyter.org/)
 * [Python Tutor](http://pythontutor.com/)
+* [Flask 中文](http://docs.jinkan.org/docs/flask/tutorial/introduction.html)
 
 ## References
 
