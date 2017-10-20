@@ -9,7 +9,7 @@
 | L | Special Topic | Programming | Python | Note |
 |---|---|---|---|---|
 | 1 | 各平台上的環境設定([Windows](Environments/windows.md)/Linux/Mac) | [P-L1: What is Programming](Programming/P-Lesson-1-what-is-programming.ipynb) | | |
-| 2 | Unix-like shell 基本操作 / 編輯器與 IDE | P-L2: Variables and Data | | |
+| 2 | Unix-like shell 基本操作 / 編輯器與 IDE | [P-L2: Variables and Data](Programming/P-Lesson-2-variables-and-data.ipynb) | | |
 | 3 |  | P-L3: Flow Control | | |
 | 4 |  | P-L4: Function | | |
 | 5 |  | P-L5: Recursion | | |
@@ -30,3 +30,4 @@
 ## References
 
 * [Learning python (general usage)](https://hackmd.io/AzCGA4FMGYDMCMC0oDGB2aiAsBWaA2ZARnwE5EUUccjx8jY0AmYIA===)
+* [dokelung - Python 快速入門](https://www.gitbook.com/book/dokelung/dokelung-python-quickstart/details)
